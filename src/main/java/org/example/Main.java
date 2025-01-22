@@ -28,6 +28,7 @@ public class Main {
         Map<String, Object> dataModel = new HashMap<>();
         dataModel.put("name", "Tushar");
         dataModel.put("message","Welcome to the MB UCars Website!");
+        dataModel.put("title", "FreeMarker Demo");
 
 
         // Merge data model with the template and output to a file
