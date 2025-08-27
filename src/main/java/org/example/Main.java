@@ -38,5 +38,7 @@ public class Main {
 
         System.out.println("Template processed successfully. Check the output.html file.");
 
+        System.out.println("-----------");
+
         }
     }
